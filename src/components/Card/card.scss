@@ -1,0 +1,25 @@
+.div-card {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 22%;
+    background-color: rgb(3, 2, 3);
+    margin: 15px;
+    color: rgb(255, 255, 255);
+}
+
+.div-card > h4 {
+    text-align: center;
+}
+
+.div-card > img {
+    width: 250px;
+    height: 250px;
+}
+
+.div-button {
+    display: flex;
+    width: 100px;
+    justify-content: space-between;
+}

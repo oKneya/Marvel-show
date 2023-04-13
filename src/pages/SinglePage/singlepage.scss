@@ -1,0 +1,26 @@
+.div-single-page{
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
+    min-height: 100vh;
+    background-image: url(https://rare-gallery.com/uploads/posts/582155-marvel-background.jpeg);
+    background-color: black;
+    color: white;
+}
+
+.div-single-page > img {
+    width: 500px;
+    height: 500px;
+    border: 8px solid black;
+}
+
+.text {
+    text-align: center;
+    font-size: x-large;
+}
+
+.headerr {
+    width: 100%;
+}

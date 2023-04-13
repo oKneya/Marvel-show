@@ -1,0 +1,21 @@
+.div-wrapper{
+    flex-grow: 1;
+    display: flex;
+    background-image: url("https://rare-gallery.com/uploads/posts/582155-marvel-background.jpeg");
+    background-size:cover;
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.content-div{
+    width: 70%;
+}
+
+.card-wrapper{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.div-section {
+    background-color: black;
+}
